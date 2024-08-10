@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(164, 248, 248);
+    text-align: center;
+    font-size: 32px;
+
+
+}
+table{
+    text-align: center;
+}
+th{
+    width: 200px;
+    text-align: center;
+}
+th:hover{
+    background-color: aqua;
+    color: blue;
+}
+td{
+    text-align: center;
+}
+td:hover{
+    background-color: rgb(106, 243, 52);
+    color: red;
+}
